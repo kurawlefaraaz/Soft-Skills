@@ -35,10 +35,12 @@ How we speak is more influential to the person who we are communicating with tha
 
 Communication is a two–way process. Listening is therefore an essential skill too. Listening is not just hearing the other person, it is attentively listening and is to accurately receive information when communicating with others.
 
+Non-verbal communication such as emailing, content writing are as included in communication skills.
+
 
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjY2OTk3MCw0Njg4OTI4NzQsNzk1Mj
+eyJoaXN0b3J5IjpbMTQ5Nzk5NDE3OSw0Njg4OTI4NzQsNzk1Mj
 cwNjg5XX0=
 -->
