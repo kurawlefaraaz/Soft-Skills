@@ -30,10 +30,13 @@ There are mainly two category of soft skills, they are:
 
 ### Communication Skills
 The ability to communicate ideas to others effectively is an absolute essential requirement for both our career building and personal relationships.
-How we speak is more influential to the person who we are communicating with than what we actually say, so we should be careful about our be used for body language and tone of our voice when we are talking.
+
+How we speak is more influential to the person who we are communicating with than what we actually say, so we should be careful about our body language and tone of our voice when we are talking.
+
+Communication is a two–way process. Listening is therefore an essential skill too. Listening is not just hearing the other person, it atte
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM2MTY3NCw0Njg4OTI4NzQsNzk1Mj
-cwNjg5XX0=
+eyJoaXN0b3J5IjpbLTIwNzYzNTYwNDUsNDY4ODkyODc0LDc5NT
+I3MDY4OV19
 -->
