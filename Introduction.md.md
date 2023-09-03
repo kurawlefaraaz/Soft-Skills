@@ -28,11 +28,12 @@ Types of Interpersonal Skills:
  6. Conflict management
  7. Management Skills
  8. Critical thinking
-9Decision-making
+ 9. Decision-making
+ 10. etc 
 
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjI1ODIyMCw0Njg4OTI4NzQsNzk1Mj
+eyJoaXN0b3J5IjpbMTQ0MTk1ODg3Nyw0Njg4OTI4NzQsNzk1Mj
 cwNjg5XX0=
 -->
