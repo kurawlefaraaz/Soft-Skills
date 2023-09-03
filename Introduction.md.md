@@ -6,7 +6,9 @@
 - These skills are applicable to any profession and even in our personal life.
 
 ## Hard Skills
-- 
+- Are the technical or professional skill we learn in our life.
+- These skills are comperativly easy to learn than soft skills.
+- These skills are only applicable in cer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NTMzOTc3LDc5NTI3MDY4OV19
+eyJoaXN0b3J5IjpbLTM4MTg0ODQzNiw3OTUyNzA2ODldfQ==
 -->
