@@ -29,11 +29,11 @@ There are mainly two category of soft skills, they are:
  7. Life Skills 
 
 ### Communication Skills
-The ability to communicate ideas to others effectively is an absolute essential requirement for both our career building and personal relations.
-
+The ability to communicate ideas to others effectively is an absolute essential requirement for both our career building and personal relationships.
+How we speak is more influential to the person who we are communicating with than what we actually say, so we should be careful about our be used for body language and tone of our voice when we are talking.
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTY1MzgyNCw0Njg4OTI4NzQsNzk1Mj
+eyJoaXN0b3J5IjpbLTExMDM2MTY3NCw0Njg4OTI4NzQsNzk1Mj
 cwNjg5XX0=
 -->
