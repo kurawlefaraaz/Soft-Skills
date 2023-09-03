@@ -10,16 +10,18 @@
 - These skills are comperativly easy to learn than soft skills.
 - These skills are only applicable in certain industries and profession.
 - Examples: Programming, Accounting etc.
+- 
+# Types of Soft Skills:
 
-Types of Soft Skills:
 - Inborn Skills:
 	: Skills such as confidence, courage and social nature which are present from birth. These skills can be improved.
   
 - Interpersonal Skills:
-	: These are the skills which are used to when you interact or communicate with others. Skills such as communication skill, leadership skills, and decision- making skill are 
+	: These are the skills which are used to when you interact or communicate with others. Skills such as communication skill, leadership skills, and decision- making skill are the examples.
+
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjM3MDkzMyw0Njg4OTI4NzQsNzk1Mj
+eyJoaXN0b3J5IjpbMTc5NDEwNTQwOSw0Njg4OTI4NzQsNzk1Mj
 cwNjg5XX0=
 -->
