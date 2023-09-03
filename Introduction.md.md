@@ -20,11 +20,15 @@ There are mainly two category of soft skills, they are:
 	: These are the skills which are used to when you interact or communicate with others. Skills such as communication skill, leadership skills, and decision- making skill are the examples.
 
 Types of Interpersonal Skills:
- 1. Communica
+ 1. Communication Skill
+ 2. Team Work
+ 3. Leadership Skill
+ 4. Etiquettes
+ 5. Language Skills
 
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzI5OTIyNyw0Njg4OTI4NzQsNzk1Mj
-cwNjg5XX0=
+eyJoaXN0b3J5IjpbLTEwMDMwNDYzNjEsNDY4ODkyODc0LDc5NT
+I3MDY4OV19
 -->
