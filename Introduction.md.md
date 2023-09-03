@@ -11,7 +11,7 @@
 - These skills are only applicable in certain industries and profession.
 - Examples: Programming, Accounting etc.
 - 
-# Types of Soft Skills:
+## Types of Soft Skills:
 There are mainly two category of soft skills, they are:
 - Inborn Skills:
 	: Skills such as confidence, courage and social nature which are present from birth. These skills can be improved.
@@ -19,20 +19,21 @@ There are mainly two category of soft skills, they are:
 - Interpersonal Skills:
 	: These are the skills which are used to when you interact or communicate with others. Skills such as communication skill, leadership skills, and decision- making skill are the examples.
 
-Types of Interpersonal Skills:
+## Types of Interpersonal Skills:
  1. Communication Skill
  2. Team Work
  3. Leadership Skill
  4. Etiquettes
- 6. Management Skills
- 7. Critical thinking
- 8. Decision-making
- 9. Life Skills 
+ 5. Management Skills
+ 6. Critical thinking
+ 7. Life Skills 
 
+### Communication Skills
+:sassdsadsad
 
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTg2ODA5Niw0Njg4OTI4NzQsNzk1Mj
+eyJoaXN0b3J5IjpbMTAxMzQwMzM3OCw0Njg4OTI4NzQsNzk1Mj
 cwNjg5XX0=
 -->
