@@ -4,7 +4,8 @@
 	 1. Introduction to Soft Skill and Hard Skill
 	 2. Personality Development
 	 3. Emotional Intelligence
-	 4. Etiquette and Manner 
+	 4. Etiquette and Mannerism
+	 5. Communication Today 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NTM0MzEwXX0=
+eyJoaXN0b3J5IjpbMTIzNjY5OTYyNV19
 -->
