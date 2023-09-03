@@ -24,16 +24,15 @@ Types of Interpersonal Skills:
  2. Team Work
  3. Leadership Skill
  4. Etiquettes
- 5. Language Skills
- 6. Conflict management
- 7. Management Skills
- 8. Critical thinking
- 9. Decision-making
- 10. etc 
+ 6. Management Skills
+ 7. Critical thinking
+ 8. Decision-making
+ 9. Life Skills 
+
 
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTk1ODg3Nyw0Njg4OTI4NzQsNzk1Mj
+eyJoaXN0b3J5IjpbLTIxOTg2ODA5Niw0Njg4OTI4NzQsNzk1Mj
 cwNjg5XX0=
 -->
