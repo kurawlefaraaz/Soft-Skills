@@ -16,10 +16,10 @@ Types of Soft Skills:
 	: Skills such as confidence, courage and social nature which are present from birth. These skills can be improved.
   
 - Interpersonal Skills:
-	: These are the skills which are used to when 
+	: These are the skills which are used to when you interact or communicate with others. Skills such as communication skill, leadership skills, and decision- making skill are 
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA1ODQ5MTgsNDY4ODkyODc0LDc5NT
-I3MDY4OV19
+eyJoaXN0b3J5IjpbMTUxMjM3MDkzMyw0Njg4OTI4NzQsNzk1Mj
+cwNjg5XX0=
 -->
