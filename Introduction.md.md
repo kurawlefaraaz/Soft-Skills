@@ -13,13 +13,13 @@
 
 Types of Soft Skills:
 - Inborn Skills:
-  : Skills such as confidence, courage and social nature which are present from birth. These skills can be improved.
+	: Skills such as confidence, courage and social nature which are present from birth. These skills can be improved.
   
 - Interpersonal Skills:
--  :asasasas
+	: These are the skills which are used to when 
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzU3ODM2MzgsNDY4ODkyODc0LDc5NT
+eyJoaXN0b3J5IjpbLTE5NTA1ODQ5MTgsNDY4ODkyODc0LDc5NT
 I3MDY4OV19
 -->
