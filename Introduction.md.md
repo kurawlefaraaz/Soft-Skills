@@ -33,10 +33,12 @@ The ability to communicate ideas to others effectively is an absolute essential 
 
 How we speak is more influential to the person who we are communicating with than what we actually say, so we should be careful about our body language and tone of our voice when we are talking.
 
-Communication is a two–way process. Listening is therefore an essential skill too. Listening is not just hearing the other person, it atte
+Communication is a two–way process. Listening is therefore an essential skill too. Listening is not just hearing the other person, it is attentively listening and is to accurately receive information when communicating with others.
+
+
 	
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYzNTYwNDUsNDY4ODkyODc0LDc5NT
-I3MDY4OV19
+eyJoaXN0b3J5IjpbMTU1NjY2OTk3MCw0Njg4OTI4NzQsNzk1Mj
+cwNjg5XX0=
 -->
